@@ -1,46 +1,43 @@
- #type1{
-    color:red;
-    font-family:Arial, Helvetica, sans-serif;
-    font-size:larger;
-}
-.head{
-    widht:20px;
-    border-radius: 15%;
-    height: 20px;
-    border-width: 40px;
-    border-style: solid;
-    
-}
-.h1{
-    background-color: tomato;
-    font-family: yellow;
-    word-spacing: 12px;
-    font-weight: 400;
-    color: aliceblue;
-    font-size: xx-large;
+css-lab7-assignment/style.css
+@Nikil2
+Nikil2 Add files via upload
+Latest commit 27de38e yesterday
+ History
+ 1 contributor
+31 lines (28 sloc)  775 Bytes
 
-.p{
-    background-color:tomato;
+h1{
+    color: rgba(0, 0, 0, 0.712);
+    font-size: 40px;
+    text-decoration: initial;
 }
 body{
-    border-style: solid;
-    border: 100px;
-    border-radius: 15%;
-    border-color: black;
-    background-image: url(backg.jpg);
-    background-size: cover;
+    color: rgb(117, 150, 163);
+    border-radius: 5px solid;
+    border-image: 2px solid;
+    text-decoration: dotted;
+    background-color: beige;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    background-image:url(https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/DHA_Suffa_University_Logo.svg/200px-DHA_Suffa_University_Logo.svg.png) ;
+    background-repeat: no-repeat;
+    text-emphasis: none;
+    
 }
-ol{
-    list-style: decimal outside;
+img{
+    height: 400px;
+    width: 400px;
+    border: solid 10px;
+    list-style: decimal-leading-zero;
+    
 }
-ul{
-    list-style-type: lower-roman;
-    list-style-position: inside;
+p{
+    color: black;
+    font-size: 20px;
+    border: solid 5px;
 }
-div{
-    width: 1480px;
-    height: 650px;
-    border-style: dotted;
-    border-color: tomato;
-    border-radius: 20px;
-}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
