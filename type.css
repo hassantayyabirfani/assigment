@@ -1,0 +1,46 @@
+ #type1{
+    color:red;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:larger;
+}
+.head{
+    widht:20px;
+    border-radius: 15%;
+    height: 20px;
+    border-width: 40px;
+    border-style: solid;
+    
+}
+.h1{
+    background-color: tomato;
+    font-family: yellow;
+    word-spacing: 12px;
+    font-weight: 400;
+    color: aliceblue;
+    font-size: xx-large;
+
+.p{
+    background-color:tomato;
+}
+body{
+    border-style: solid;
+    border: 100px;
+    border-radius: 15%;
+    border-color: black;
+    background-image: url(backg.jpg);
+    background-size: cover;
+}
+ol{
+    list-style: decimal outside;
+}
+ul{
+    list-style-type: lower-roman;
+    list-style-position: inside;
+}
+div{
+    width: 1480px;
+    height: 650px;
+    border-style: dotted;
+    border-color: tomato;
+    border-radius: 20px;
+}
